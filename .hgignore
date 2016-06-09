@@ -1,0 +1,13 @@
+syntax: glob
+Gn.SrvFany/bin/Debug/*.*
+Gn.SrvFany/bin/Release/*.*
+Gn.SrvFany/obj/Debug/*.*
+Gn.SrvFany/obj/Release/*.*
+Gn.SrvFany.UnitTests/bin/Debug/*.*
+Gn.SrvFany.UnitTests/bin/Release/*.*
+Gn.SrvFany.UnitTests/obj/Debug/*.*
+Gn.SrvFany.UnitTests/obj/Release/*.*
+Gn.WinCertificaCC/bin/Debug/*.*
+Gn.WinCertificaCC/bin/Release/*.*
+Gn.WinCertificaCC/obj/Debug/*.*
+Gn.WinCertificaCC/obj/Release/*.*
